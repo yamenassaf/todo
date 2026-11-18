@@ -1,0 +1,175 @@
+{
+  "collection": "todos",
+  "version": 1,
+  "updatedAt": "2026-11-18T01:08:46.600Z",
+  "documents": {
+    "c8e4d2b4-caf9-453d-83f7-1e6733d2b0ff": {
+      "id": "c8e4d2b4-caf9-453d-83f7-1e6733d2b0ff",
+      "data": {
+        "text": "Task 1",
+        "done": true
+      },
+      "_fields": {
+        "text": {
+          "updatedAt": "2026-11-18T00:27:08.822Z",
+          "device": "3c1b00b0-f99b-4e28-bb88-17fbe581aef1"
+        },
+        "done": {
+          "updatedAt": "2026-11-18T00:35:26.039Z",
+          "device": "3c1b00b0-f99b-4e28-bb88-17fbe581aef1"
+        }
+      },
+      "updated_at": "2026-11-18T00:35:26.039Z",
+      "created_at": "2026-11-18T00:27:08.822Z",
+      "deleted_at": "2026-11-18T01:04:41.737Z",
+      "deleted_by": "3c1b00b0-f99b-4e28-bb88-17fbe581aef1"
+    },
+    "093022f4-2e2a-4ea9-ab5c-bb627ba7fd0c": {
+      "id": "093022f4-2e2a-4ea9-ab5c-bb627ba7fd0c",
+      "data": {
+        "text": "Task 2",
+        "done": false
+      },
+      "_fields": {
+        "text": {
+          "updatedAt": "2026-11-18T00:29:24.558Z",
+          "device": "3c1b00b0-f99b-4e28-bb88-17fbe581aef1"
+        },
+        "done": {
+          "updatedAt": "2026-11-18T00:36:53.939Z",
+          "device": "3c1b00b0-f99b-4e28-bb88-17fbe581aef1"
+        }
+      },
+      "updated_at": "2026-11-18T00:36:53.939Z",
+      "created_at": "2026-11-18T00:29:24.558Z",
+      "deleted_at": "2026-11-18T01:04:42.500Z",
+      "deleted_by": "3c1b00b0-f99b-4e28-bb88-17fbe581aef1"
+    },
+    "c50b1278-6fad-427e-a008-34c07fb543b0": {
+      "id": "c50b1278-6fad-427e-a008-34c07fb543b0",
+      "data": {
+        "text": "T3",
+        "done": false
+      },
+      "_fields": {
+        "text": {
+          "updatedAt": "2026-11-18T00:51:05.005Z",
+          "device": "3c1b00b0-f99b-4e28-bb88-17fbe581aef1"
+        },
+        "done": {
+          "updatedAt": "2026-11-18T00:51:05.005Z",
+          "device": "3c1b00b0-f99b-4e28-bb88-17fbe581aef1"
+        }
+      },
+      "updated_at": "2026-11-18T00:51:05.005Z",
+      "created_at": "2026-11-18T00:51:05.005Z",
+      "deleted_at": "2026-11-18T01:04:43.103Z",
+      "deleted_by": "3c1b00b0-f99b-4e28-bb88-17fbe581aef1"
+    },
+    "2a0c5a3f-a25d-4a47-9030-75a26185e167": {
+      "id": "2a0c5a3f-a25d-4a47-9030-75a26185e167",
+      "data": {
+        "text": "T4",
+        "done": false
+      },
+      "_fields": {
+        "text": {
+          "updatedAt": "2026-11-18T00:54:45.859Z",
+          "device": "3c1b00b0-f99b-4e28-bb88-17fbe581aef1"
+        },
+        "done": {
+          "updatedAt": "2026-11-18T00:54:45.859Z",
+          "device": "3c1b00b0-f99b-4e28-bb88-17fbe581aef1"
+        }
+      },
+      "updated_at": "2026-11-18T00:54:45.859Z",
+      "created_at": "2026-11-18T00:54:45.859Z",
+      "deleted_at": "2026-11-18T01:04:43.830Z",
+      "deleted_by": "3c1b00b0-f99b-4e28-bb88-17fbe581aef1"
+    },
+    "16a6c44d-887c-42eb-894a-abb140b6bb79": {
+      "id": "16a6c44d-887c-42eb-894a-abb140b6bb79",
+      "data": {
+        "text": "T5",
+        "done": true
+      },
+      "_fields": {
+        "text": {
+          "updatedAt": "2026-11-18T00:55:49.119Z",
+          "device": "3c1b00b0-f99b-4e28-bb88-17fbe581aef1"
+        },
+        "done": {
+          "updatedAt": "2026-11-18T01:05:15.816Z",
+          "device": "3c1b00b0-f99b-4e28-bb88-17fbe581aef1"
+        }
+      },
+      "updated_at": "2026-11-18T01:05:15.816Z",
+      "created_at": "2026-11-18T00:55:49.119Z",
+      "deleted_at": "2026-11-18T01:05:21.794Z",
+      "deleted_by": "3c1b00b0-f99b-4e28-bb88-17fbe581aef1"
+    },
+    "128bf097-8a12-4aa6-b14e-ba505b4fd9ca": {
+      "id": "128bf097-8a12-4aa6-b14e-ba505b4fd9ca",
+      "data": {
+        "text": "Welcome",
+        "done": true
+      },
+      "_fields": {
+        "text": {
+          "updatedAt": "2026-11-18T01:05:40.295Z",
+          "device": "3c1b00b0-f99b-4e28-bb88-17fbe581aef1"
+        },
+        "done": {
+          "updatedAt": "2026-11-18T01:07:40.588Z",
+          "device": "3c1b00b0-f99b-4e28-bb88-17fbe581aef1"
+        }
+      },
+      "updated_at": "2026-11-18T01:07:40.588Z",
+      "created_at": "2026-11-18T01:05:40.295Z",
+      "deleted_at": null,
+      "deleted_by": null
+    },
+    "fe135b43-83c8-49e8-b887-fdc156470a22": {
+      "id": "fe135b43-83c8-49e8-b887-fdc156470a22",
+      "data": {
+        "text": "Test Task",
+        "done": true
+      },
+      "_fields": {
+        "text": {
+          "updatedAt": "2026-11-18T01:05:58.177Z",
+          "device": "3c1b00b0-f99b-4e28-bb88-17fbe581aef1"
+        },
+        "done": {
+          "updatedAt": "2026-11-18T01:07:39.793Z",
+          "device": "3c1b00b0-f99b-4e28-bb88-17fbe581aef1"
+        }
+      },
+      "updated_at": "2026-11-18T01:07:39.793Z",
+      "created_at": "2026-11-18T01:05:58.177Z",
+      "deleted_at": null,
+      "deleted_by": null
+    },
+    "92dfc482-34dc-4017-af2d-6d9c2e1e2c96": {
+      "id": "92dfc482-34dc-4017-af2d-6d9c2e1e2c96",
+      "data": {
+        "text": "Test",
+        "done": false
+      },
+      "_fields": {
+        "text": {
+          "updatedAt": "2026-11-18T01:08:29.520Z",
+          "device": "3c1b00b0-f99b-4e28-bb88-17fbe581aef1"
+        },
+        "done": {
+          "updatedAt": "2026-11-18T01:08:29.520Z",
+          "device": "3c1b00b0-f99b-4e28-bb88-17fbe581aef1"
+        }
+      },
+      "updated_at": "2026-11-18T01:08:29.520Z",
+      "created_at": "2026-11-18T01:08:29.520Z",
+      "deleted_at": null,
+      "deleted_by": null
+    }
+  }
+}
