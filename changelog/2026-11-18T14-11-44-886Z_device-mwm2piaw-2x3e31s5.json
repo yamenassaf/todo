@@ -1,0 +1,12 @@
+{
+  "deviceId": "device-mwm2piaw-2x3e31s5",
+  "timestamp": "2026-11-18T14:11:44.886Z",
+  "changes": [
+    {
+      "collection": "todos",
+      "docId": "t-mwm2t1n5fd3red",
+      "op": "delete",
+      "deletedAt": "2026-11-18T14:11:44.877Z"
+    }
+  ]
+}
