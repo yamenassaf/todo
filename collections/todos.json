@@ -1,7 +1,7 @@
 {
   "collection": "todos",
-  "version": 2,
-  "updatedAt": "2026-11-18T01:09:33.360Z",
+  "version": 3,
+  "updatedAt": "2026-11-18T01:22:04.605Z",
   "documents": {
     "c8e4d2b4-caf9-453d-83f7-1e6733d2b0ff": {
       "id": "c8e4d2b4-caf9-453d-83f7-1e6733d2b0ff",
@@ -120,14 +120,14 @@
           "device": "3c1b00b0-f99b-4e28-bb88-17fbe581aef1"
         },
         "done": {
-          "updatedAt": "2026-11-18T01:07:37.438Z",
+          "updatedAt": "2026-11-18T01:18:50.841Z",
           "device": "3c1b00b0-f99b-4e28-bb88-17fbe581aef1"
         }
       },
-      "updated_at": "2026-11-18T01:07:37.438Z",
+      "updated_at": "2026-11-18T01:18:50.841Z",
       "created_at": "2026-11-18T01:05:40.295Z",
-      "deleted_at": null,
-      "deleted_by": null
+      "deleted_at": "2026-11-18T01:19:13.025Z",
+      "deleted_by": "3c1b00b0-f99b-4e28-bb88-17fbe581aef1"
     },
     "fe135b43-83c8-49e8-b887-fdc156470a22": {
       "id": "fe135b43-83c8-49e8-b887-fdc156470a22",
@@ -141,14 +141,14 @@
           "device": "3c1b00b0-f99b-4e28-bb88-17fbe581aef1"
         },
         "done": {
-          "updatedAt": "2026-11-18T01:07:21.105Z",
+          "updatedAt": "2026-11-18T01:10:45.687Z",
           "device": "3c1b00b0-f99b-4e28-bb88-17fbe581aef1"
         }
       },
-      "updated_at": "2026-11-18T01:07:21.105Z",
+      "updated_at": "2026-11-18T01:10:45.687Z",
       "created_at": "2026-11-18T01:05:58.177Z",
-      "deleted_at": null,
-      "deleted_by": null
+      "deleted_at": "2026-11-18T01:11:06.575Z",
+      "deleted_by": "3c1b00b0-f99b-4e28-bb88-17fbe581aef1"
     },
     "92dfc482-34dc-4017-af2d-6d9c2e1e2c96": {
       "id": "92dfc482-34dc-4017-af2d-6d9c2e1e2c96",
@@ -162,14 +162,77 @@
           "device": "3c1b00b0-f99b-4e28-bb88-17fbe581aef1"
         },
         "done": {
-          "updatedAt": "2026-11-18T01:08:29.520Z",
+          "updatedAt": "2026-11-18T01:10:42.948Z",
           "device": "3c1b00b0-f99b-4e28-bb88-17fbe581aef1"
         }
       },
-      "updated_at": "2026-11-18T01:08:29.520Z",
+      "updated_at": "2026-11-18T01:10:42.948Z",
       "created_at": "2026-11-18T01:08:29.520Z",
-      "deleted_at": null,
-      "deleted_by": null
+      "deleted_at": "2026-11-18T01:11:06.308Z",
+      "deleted_by": "3c1b00b0-f99b-4e28-bb88-17fbe581aef1"
+    },
+    "f94cf123-70e3-4dc9-b568-6e7f4e53fefb": {
+      "id": "f94cf123-70e3-4dc9-b568-6e7f4e53fefb",
+      "data": {
+        "text": "122",
+        "done": true
+      },
+      "_fields": {
+        "text": {
+          "updatedAt": "2026-11-18T01:18:26.478Z",
+          "device": "3c1b00b0-f99b-4e28-bb88-17fbe581aef1"
+        },
+        "done": {
+          "updatedAt": "2026-11-18T01:18:49.933Z",
+          "device": "3c1b00b0-f99b-4e28-bb88-17fbe581aef1"
+        }
+      },
+      "updated_at": "2026-11-18T01:18:49.933Z",
+      "created_at": "2026-11-18T01:18:26.478Z",
+      "deleted_at": "2026-11-18T01:19:02.856Z",
+      "deleted_by": "3c1b00b0-f99b-4e28-bb88-17fbe581aef1"
+    },
+    "bddf2585-e281-468c-a4d7-6a9a1edcf619": {
+      "id": "bddf2585-e281-468c-a4d7-6a9a1edcf619",
+      "data": {
+        "text": "1",
+        "done": true
+      },
+      "_fields": {
+        "text": {
+          "updatedAt": "2026-11-18T01:19:21.683Z",
+          "device": "3c1b00b0-f99b-4e28-bb88-17fbe581aef1"
+        },
+        "done": {
+          "updatedAt": "2026-11-18T01:20:05.875Z",
+          "device": "3c1b00b0-f99b-4e28-bb88-17fbe581aef1"
+        }
+      },
+      "updated_at": "2026-11-18T01:20:05.875Z",
+      "created_at": "2026-11-18T01:19:21.683Z",
+      "deleted_at": "2026-11-18T01:20:22.845Z",
+      "deleted_by": "3c1b00b0-f99b-4e28-bb88-17fbe581aef1"
+    },
+    "69a404d8-9b44-489e-8f15-fa7112a9ae86": {
+      "id": "69a404d8-9b44-489e-8f15-fa7112a9ae86",
+      "data": {
+        "text": "2",
+        "done": false
+      },
+      "_fields": {
+        "text": {
+          "updatedAt": "2026-11-18T01:19:28.315Z",
+          "device": "3c1b00b0-f99b-4e28-bb88-17fbe581aef1"
+        },
+        "done": {
+          "updatedAt": "2026-11-18T01:19:28.315Z",
+          "device": "3c1b00b0-f99b-4e28-bb88-17fbe581aef1"
+        }
+      },
+      "updated_at": "2026-11-18T01:19:28.315Z",
+      "created_at": "2026-11-18T01:19:28.315Z",
+      "deleted_at": "2026-11-18T01:21:49.957Z",
+      "deleted_by": "3c1b00b0-f99b-4e28-bb88-17fbe581aef1"
     }
   }
 }
