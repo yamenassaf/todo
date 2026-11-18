@@ -1,0 +1,21 @@
+{
+  "deviceId": "68fe2bd7-7aef-403d-a41e-86536da88838",
+  "timestamp": "2026-11-18T00:36:53.966Z",
+  "changes": [
+    {
+      "collection": "todos",
+      "docId": "093022f4-2e2a-4ea9-ab5c-bb627ba7fd0c",
+      "op": "update",
+      "fields": {
+        "text": {
+          "value": "Task 2",
+          "updatedAt": "2026-11-18T00:29:24.558Z"
+        },
+        "done": {
+          "value": false,
+          "updatedAt": "2026-11-18T00:36:53.939Z"
+        }
+      }
+    }
+  ]
+}
