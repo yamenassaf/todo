@@ -1,0 +1,12 @@
+{
+  "deviceId": "3c1b00b0-f99b-4e28-bb88-17fbe581aef1",
+  "timestamp": "2026-11-18T01:05:21.815Z",
+  "changes": [
+    {
+      "collection": "todos",
+      "docId": "16a6c44d-887c-42eb-894a-abb140b6bb79",
+      "op": "delete",
+      "deletedAt": "2026-11-18T01:05:21.794Z"
+    }
+  ]
+}
