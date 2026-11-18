@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 0,
+  "collections": {
+    "todos": {
+      "version": 1,
+      "sha": "6a16a5e73384eaa6d7c3fc0a9ce0028f11e8443a"
+    }
+  },
+  "changelogCount": 23
+}
