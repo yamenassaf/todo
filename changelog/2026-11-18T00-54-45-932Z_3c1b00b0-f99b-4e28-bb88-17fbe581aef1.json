@@ -1,0 +1,21 @@
+{
+  "deviceId": "3c1b00b0-f99b-4e28-bb88-17fbe581aef1",
+  "timestamp": "2026-11-18T00:54:45.932Z",
+  "changes": [
+    {
+      "collection": "todos",
+      "docId": "2a0c5a3f-a25d-4a47-9030-75a26185e167",
+      "op": "create",
+      "fields": {
+        "text": {
+          "value": "T4",
+          "updatedAt": "2026-11-18T00:54:45.859Z"
+        },
+        "done": {
+          "value": false,
+          "updatedAt": "2026-11-18T00:54:45.859Z"
+        }
+      }
+    }
+  ]
+}
