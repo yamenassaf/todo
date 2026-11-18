@@ -1,0 +1,21 @@
+{
+  "deviceId": "device-mwm2qhht-ashbeoe2",
+  "timestamp": "2026-11-18T12:10:21.491Z",
+  "changes": [
+    {
+      "collection": "todos",
+      "docId": "t-mwm2skybuwef5a",
+      "op": "update",
+      "fields": {
+        "text": {
+          "value": "T3",
+          "updatedAt": "2026-11-18T12:06:33.496Z"
+        },
+        "done": {
+          "value": true,
+          "updatedAt": "2026-11-18T12:10:21.418Z"
+        }
+      }
+    }
+  ]
+}
