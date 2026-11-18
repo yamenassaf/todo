@@ -2,9 +2,9 @@
   "schemaVersion": 0,
   "collections": {
     "todos": {
-      "version": 1,
-      "sha": "6a16a5e73384eaa6d7c3fc0a9ce0028f11e8443a"
+      "version": 4,
+      "sha": "e3cd6c079c90a9089af52980b64cfb5c8fcac547"
     }
   },
-  "changelogCount": 1
+  "changelogCount": 0
 }
